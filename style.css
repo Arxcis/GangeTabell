@@ -22,7 +22,8 @@ main {flex: 0 1 700px;
 
 .heading {display: flex;
 			justify-content: space-between;}
-#kalkulasjon {font-size: 50px;}
+
+#kalk, #svar {font-size: 50px;}
 
 
 
